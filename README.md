@@ -1,1 +1,3 @@
-# pandas-challenge
+We will analyze the data about a school's district's scores by school, budget range, size of the school and whether they're a charter school or a District school 
+
+We have 2 csv files one with the each of the school's information and anotherone with each student, their grades and what school they go to. We will merge to be able to find correlations between the type of schools and the grades and be able to do our analysis.
